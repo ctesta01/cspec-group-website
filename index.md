@@ -1,52 +1,18 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: C-SPEC Group
+subtitle: COVID-19 Statistics, Policy, Modeling <br />& Epidemiology Collective
 layout: page
-callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 
-# Bulma Clean Theme demo website
+# WHO WE ARE
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+We are a team of faculty, research scientists, and pre- and post-doctoral trainees at Harvard, Stanford, the University of Maryland, and Yale. 
 
-[![Gem Version](https://badge.fury.io/rb/bulma-clean-theme.svg)](https://badge.fury.io/rb/bulma-clean-theme)
-![Gem](https://img.shields.io/gem/dt/bulma-clean-theme.svg)
+We represent a diverse range of disciplinary backgrounds, including: epidemiology, virology, biostatistics, operations research, and health economics. Like so many other research teams around the world, we have dropped what we are doing, volunteered our time and effort, and convened to help predict and understand the trajectory of the COVID-19 pandemic. 
 
-## Ruby Gem
+# WHAT WE DO
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme)
+We are distinguished from other COVID-19 modeling groups by our focus on decisions and the role that information plays in those decisions. A large number of us have advanced training in decision science and so-called value-of-information methods. This leads us to prioritize pragmatic decision support and the careful management of uncertainty in our modeling. We view the model-building exercise as a practical means of ‘taking stock’ of the evidence base: assembling what we know, identifying what don’t we know, and evaluating what we might be willing to give up (in terms of time, new infections, costs, and/or mortality) to acquire better information.
 
-## GitHub Pages
-
-The theme can be used with GitHub Pages bu setting the `remote_theme` in your Jekyll sites `_config.yml`
-
-```yml
-remote_theme: chrisrhymes/bulma-clean-theme
-```
-
-## Instructions
-
-For full instructions, please see the Readme at the GitHub repo:
-[https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md](https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md)
-
-## Page Layouts
-
-This demo site showcases the available page layout options.
-
-* Page With Sidebar
-* Page Without Sidebar
-* Page With Menubar
-* Page With Tabs
-* Page Without Footer
-* Page Without Hero
-* Page With Contents
-* Landing Page With Callouts
-* Blog
-* Post
-
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
-
-[![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
+Our model development activities have both short- and long-term objectives: In the short-term, we aim to predict the impact of imminent public health control measures on the trajectory of the epidemic and on the use of scarce healthcare resources. We use that model to identify what we know, what we don’t know, and where/how our data collection and analysis efforts might most usefully be deployed to improve longer-term decision making.

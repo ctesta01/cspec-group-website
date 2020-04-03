@@ -1,4 +1,4 @@
-- name: Pages
+- name: Example Pages
   link: /#
   dropdown:
     - name: Page With Sidebar
@@ -19,9 +19,9 @@
       link: /landing/
     - name: Sponsors Page
       link: /sponsors/
-- name: Products
-  link: /products/
-- name: Showcase
-  link: /showcase/
-- name: Blog
-  link: /blog/
+    - name: Products
+      link: /products/
+    - name: Showcase
+      link: /showcase/
+    - name: Blog
+      link: /blog/

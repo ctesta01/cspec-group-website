@@ -1,14 +1,14 @@
 # Site Settings
-title: Bulma Clean Theme
-tagline: Bulma Clean Theme
-email: your-email@domain.com
+title: C-SPEC Group
+tagline: COVID-19 Statistics, Policy, Modeling & Epidemiology Collective
+email: anna.york@yale.edu
 description: >
-  The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+  The C-SPEC Group Website 
+baseurl: ""
 url: "https://www.csrhymes.com"
 permalink: pretty
 #favicon: /path/to/favicon.png
-gh_sponsor: chrisrhymes
+#gh_sponsor: chrisrhymes
 
 paginate: 5
 paginate_path: "/blog/page:num"
@@ -19,7 +19,6 @@ disqus:
   # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   # shortname: my_disqus_shortname
   shortname: csrhymes
-
 
 plugins:
   - jekyll-sitemap
