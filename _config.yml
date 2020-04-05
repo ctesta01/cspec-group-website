@@ -5,7 +5,7 @@ email: anna.york@yale.edu
 description: >
   The C-SPEC Group Website 
 baseurl: ""
-url: "https://www.csrhymes.com"
+url: "https://ctesta01.github.io/cspec-group-website/"
 permalink: pretty
 #favicon: /path/to/favicon.png
 #gh_sponsor: chrisrhymes
