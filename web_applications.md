@@ -1,13 +1,13 @@
 ---
-title: Showcase
-subtitle: An example showcase page
-description: An example showcase page to help you easily display your work
+title: Web Applications 
+subtitle: View our online interactive web applications
 layout: page
-showcase: showcase_example
+showcase: web_applications
 show_sidebar: false
 ---
 
-## Creating A Showcase Datafile
+<!-- 
+## 
 
 Create a datafile in your sites `_data` directory in the following format. Subtitle, features and tags are not required. 
 
@@ -18,6 +18,16 @@ The image_ratio will default to is-16by9 if it is not defined and accepts the [B
 To display GitHub Stars, Forks and Watchers badges add your GitHub user and repo name to the github setting, such as `chrisrhymes/bulma-clean-theme`
 
 To change the default styles of the features, set `features_styles`. This uses the styles from [bulma-block-list](https://www.csrhymes.com/bulma-block-list/) npm package.
+
+```yaml
+items:
+  - title: Interactive Projection Tool for COVID-19 Interventions
+    image: {{site.baseurl}}/asset/img/epi_app.png
+    image_ratio: is-16by9
+    link: https://ppmltools.org/covid19
+    link_text: ppmltools.org/covid19
+    github: github.com/abilisnki/covid19
+```
 
 ```yaml
 intro: |-
@@ -55,5 +65,4 @@ showcase: showcase_example
 show_sidebar: false
 ```
 
-
-
+-->
