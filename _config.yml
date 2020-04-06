@@ -1,13 +1,13 @@
 # Site Settings
-title: C-SPEC Group
+title: C-SPEC
 tagline: COVID-19 Statistics, Policy, Modeling & Epidemiology Collective
-email: anna.york@yale.edu
+email: c19spec@gmail.com
 description: >
-  The C-SPEC Group Website 
-baseurl: "https://covid-spec.org"
+  The C-SPEC Website 
+baseurl: ""
 url: "https://covid-spec.org"
 permalink: pretty
-#favicon: /path/to/favicon.png
+favicon: /assets/img/favicon.png
 #gh_sponsor: chrisrhymes
 
 paginate: 5
