@@ -1,5 +1,5 @@
 ---
-title: C-SPEC Group
+title: C-SPEC
 subtitle: COVID-19 Statistics, Policy, Modeling <br />& Epidemiology Collective
 layout: page
 show_sidebar: false

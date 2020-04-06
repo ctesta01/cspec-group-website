@@ -26,7 +26,7 @@ show_sidebar: false
                                         </th>
                                         <td class="s0 softmerge" dir="ltr">
                                             <div class="softmerge-inner" style="width: 212px; left: -1px;">Name
-                                                (alphabetical by first name, professors at top)</div>
+                                                (alphabetical by first name, faculty at top)</div>
                                         </td>
                                         <td class="s0" dir="ltr">Email</td>
                                         <td class="s0" dir="ltr">Position</td>
@@ -136,7 +136,7 @@ show_sidebar: false
                                         </th>
                                         <td class="s1 softmerge" dir="ltr">
                                             <div class="softmerge-inner" style="width: 542px; left: -1px;">
-                                                <i>Non-professors (alphabetical by first name)</i></div>
+                                                <i>Non-faculty (alphabetical by first name)</i></div>
                                         </td>
                                         <td class="s2"></td>
                                         <td class="s2"></td>
