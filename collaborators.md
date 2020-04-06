@@ -37,7 +37,7 @@ show_sidebar: false
                                             <div class="row-header-wrapper" style="line-height: 20px;"></div>
                                         </th>
                                         <td class="s1 softmerge" dir="ltr">
-                                            <div class="softmerge-inner" style="width: 542px; left: -1px;"><i>Professors
+                                            <div class="softmerge-inner" style="width: 450px; left: -1px;"><i>Faculty
                                                 (alphabetical by first name)</i></div>
                                         </td>
                                         <td class="s2"></td>
@@ -88,7 +88,7 @@ show_sidebar: false
                                         <td class="s4" dir="ltr">Josh Salomon</td>
                                         <td class="s6 softmerge" dir="ltr">
                                             <div class="softmerge-inner" style="width: 326px; left: -1px;">
-                                                salomon1@stanford.edu; jsalomon@hsph.harvard.edu</div>
+                                                salomon1@stanford.edu</div>
                                         </td>
                                         <td class="s3" dir="ltr">Professor of Medicine</td>
                                         <td class="s4" dir="ltr">Stanford School of Medicine</td>
@@ -263,7 +263,7 @@ show_sidebar: false
                                         <th id="0R25" style="height: 20px;" class="row-headers-background">
                                             <div class="row-header-wrapper" style="line-height: 20px;"></div>
                                         </th>
-                                        <td class="s4" dir="ltr">Lizzie (Elizabeth) White</td>
+                                        <td class="s4" dir="ltr">Elizabeth White</td>
                                         <td class="s4" dir="ltr">elizabeth.b.white@yale.edu</td>
                                         <td class="s4" dir="ltr">PhD Student</td>
                                         <td class="s4" dir="ltr">Yale University</td>
