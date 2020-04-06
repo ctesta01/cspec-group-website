@@ -136,7 +136,7 @@ show_sidebar: false
                                         </th>
                                         <td class="s1 softmerge" dir="ltr">
                                             <div class="softmerge-inner" style="width: 542px; left: -1px;">
-                                                <i>Non-faculty (alphabetical by first name)</i></div>
+                                                <i>Fellows, students, and staff (alphabetical by first name)</i></div>
                                         </td>
                                         <td class="s2"></td>
                                         <td class="s2"></td>
