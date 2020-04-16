@@ -146,6 +146,15 @@ show_sidebar: false
                                         <th id="0R12" style="height: 20px;" class="row-headers-background">
                                             <div class="row-header-wrapper" style="line-height: 20px;"></div>
                                         </th>
+                                        <td class="s4" dir="ltr">Adam Beckman</td>
+                                        <td class="s4" dir="ltr">adam_beckman@hms.harvard.edu</td>
+                                        <td class="s3" dir="ltr">MD-MBA Student</td>
+                                        <td class="s3" dir="ltr">Harvard Medical School and Harvard Business School</td>
+                                    </tr>
+                                    <tr style='height:20px;'>
+                                        <th id="0R12" style="height: 20px;" class="row-headers-background">
+                                            <div class="row-header-wrapper" style="line-height: 20px;"></div>
+                                        </th>
                                         <td class="s4" dir="ltr">Alyssa Bilinski</td>
                                         <td class="s4" dir="ltr">abilinski@g.harvard.edu</td>
                                         <td class="s3" dir="ltr">PhD Student</td>
