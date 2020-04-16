@@ -1,4 +1,9 @@
 items:
+  - title: Simple COVID-19 Model
+    image: /assets/img/simple_epi_model.png
+    link: https://alyssab.shinyapps.io/COVID19-simple-model/
+    link_text: https://alyssab.shinyapps.io/COVID19-simple-model/
+    image_ratio: is-4by3
   - title: COVID-19 Hospital Capacity Model
     image: /assets/img/queuing_app.png
     image_ratio: is-16by9
