@@ -17,3 +17,14 @@ div.highlight {
     padding: 1.5rem;
     margin-bottom: 3rem;
 }
+
+.hero {
+    .home {
+        background-image: linear-gradient(141deg, #ddd 0%, #0089b8 71%, #0079d2 100%) !important;
+        padding-top: 1em !important;
+        padding-bottom: 1em !important;
+        img.logo {
+            max-width: 700px;
+        }
+    }
+}

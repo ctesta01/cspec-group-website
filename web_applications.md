@@ -4,6 +4,7 @@ subtitle: View our online interactive web applications
 layout: page
 showcase: web_applications
 show_sidebar: false
+is_home: false
 ---
 
 <!-- 
