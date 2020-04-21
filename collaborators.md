@@ -3,6 +3,7 @@ layout: default
 title: Collaborators
 layout: page
 show_sidebar: false
+is_home: false
 ---
 
 
